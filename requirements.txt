@@ -23,7 +23,7 @@ sentence-transformers
 streamlit
 pydantic
 email-validator
-
+grandalf
 
 # Environment Variable Management 
 python-dotenv
