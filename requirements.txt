@@ -21,6 +21,9 @@ transformers
 torch
 sentence-transformers
 streamlit
+pydantic
+email-validator
+
 
 # Environment Variable Management 
 python-dotenv
