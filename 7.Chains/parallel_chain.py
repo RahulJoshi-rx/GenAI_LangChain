@@ -1,4 +1,3 @@
-from itertools import chain
 from langchain_core.runnables import RunnableParallel
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
