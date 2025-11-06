@@ -1,8 +1,11 @@
-#LangChaim.Core
-langchain 
-langchain-core 
+#LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
 
-#OpenAI Integration 
+#OpenAI Integration
 langchain-openai
 openai
 
