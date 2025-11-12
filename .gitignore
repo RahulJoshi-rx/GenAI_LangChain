@@ -4,6 +4,9 @@ venv/
 env/
 ENV/
 
+#chroma_db
+chroma_db/
+
 # Environment variable files
 .env
 *.env

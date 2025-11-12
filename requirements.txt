@@ -2,6 +2,7 @@
 langchain
 langchain-core
 langchain-community
+langchain-classic
 langchain-text-splitters
 langchain-experimental
 faiss-cpu
@@ -32,7 +33,11 @@ pydantic
 email-validator
 grandalf
 
-# Environment Variable Management 
+# Jupyter Notebook Support
+jupyter
+ipywidgets
+
+# Environment Variable Management
 python-dotenv
 
 # Machine Learning Utilities 
